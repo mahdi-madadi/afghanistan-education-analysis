@@ -1,0 +1,41 @@
+# Survey microdata and exports
+raw_data/
+exports_csv/
+exports_readable/
+data_processed/
+*.sav
+*.zsav
+*.por
+
+# Power BI files containing imported records
+*.pbix
+
+# Local dependencies and temporary files
+.tools/
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+~$*
+Thumbs.db
+.DS_Store# Survey microdata and exports
+raw_data/
+exports_csv/
+exports_readable/
+data_processed/
+*.sav
+*.zsav
+*.por
+
+# Power BI files containing imported records
+*.pbix
+
+# Local dependencies and temporary files
+.tools/
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+~$*
+Thumbs.db
+.DS_Store
