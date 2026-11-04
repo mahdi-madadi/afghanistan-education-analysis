@@ -71,3 +71,5 @@ https://www.unicef.org/afghanistan/reports/afghanistan-multiple-indicator-cluste
 - powerbi/Afghanistan_Education.pbix — interactive report
 - docs/data_dictionary.csv — variable definitions
 - scripts/ — data inspection and conversion code
+- https://github.com/mahdi-madadi/afghanistan-education-analysis/tree/main
+- https://lnkd.in/p/daGcGWEy
