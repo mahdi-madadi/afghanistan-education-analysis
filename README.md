@@ -76,6 +76,9 @@ are unweighted; weight sums are not national population totals.
 - [Detailed project summary](reports/PROJECT_SUMMARY.md)
 - [Data dictionary](docs/data_dictionary.csv)
 - [Python scripts](scripts/)
+- [DAX measures and validation](docs/dax_measures.md)
+- [Power Query preparation scripts](powerbi/)
+- [Instructions to rebuild the analysis](docs/reproduce.md)
 
 ## Limitations
 
