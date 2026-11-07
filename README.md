@@ -102,3 +102,53 @@ the official provider and follow its access and use conditions.
 
 This is an independent learning project and is not affiliated
 with or endorsed by UNICEF.
+
+
+## Drinking Water Access Analysis
+
+A second analysis examines how access to at least basic
+drinking water varies by residence, household wealth
+and province.
+
+![Drinking water dashboard](reports/drinking_water_overview.png)
+
+### Key results
+
+| Group | Population using at least basic drinking water |
+|---|---:|
+| Overall | 68.84% |
+| Urban | 92.67% |
+| Rural | 60.71% |
+| Poorest wealth group | 39.25% |
+| Richest wealth group | 94.59% |
+
+The urban–rural difference was 31.96 percentage points.
+The richest–poorest difference was 55.34 percentage points.
+
+### Method and validation
+
+The analysis uses 23,213 completed household interviews.
+Population percentages use household weight multiplied
+by household size.
+
+Classification adapts published Serbia MICS6 syntax to
+Afghanistan's questionnaire codes. The national and
+residence estimates match UNICEF's published Afghanistan
+results when rounded to one decimal place.
+
+An early weight-rounding error was identified, corrected
+and documented before final reporting.
+
+Confidence intervals and statistical significance were
+not calculated.
+
+### Files
+
+- [Dashboard image](reports/drinking_water_overview.png)
+- [Findings image](reports/drinking_water_findings.png)
+- [Report PDF](reports/Afghanistan_Drinking_Water_Portfolio.pdf)
+- [Project summary](reports/WASH_PROJECT_SUMMARY.md)
+- [Cleaning log](docs/WASH_CLEANING_LOG.md)
+- [DAX measures](docs/WASH_DAX_MEASURES.md)
+- [Household Power Query code](powerbi/WASH_households.pq)
+- [Province lookup code](powerbi/WASH_provinces.pq)
